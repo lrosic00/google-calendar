@@ -84,7 +84,7 @@ function Home() {
 							))
 						) : (
 							<h1>
-								No available events for next
+								No available events for next 
 								{numberOfDays === 1 ? " 24 hours" : numberOfDays + " days"}
 							</h1>
 						)}
